@@ -1,0 +1,7 @@
+## Interface: 11306
+## Title: ConsumeCheck
+## Notes: Consume or item checker for the whole party / raid.
+## Author: Walkire
+## Version: 0.0.1
+
+main.lua
